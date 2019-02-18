@@ -1,6 +1,6 @@
 # Caribbean Spark
 
-### *Demonstration of in-memmory distributed data processing with Apache Spark*
+### *Demonstration of in-memory distributed data processing with Apache Spark*
 PyCaribbean 2019
 
 ## How to use
